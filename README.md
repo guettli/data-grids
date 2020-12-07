@@ -1,5 +1,4 @@
-# data-grids
-List of html/js data grids
+# List of html/js data grids
 
 # Open Source
 
